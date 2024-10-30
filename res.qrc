@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ico/Icons8-Windows-8-Programming-Save.ico</file>
+        <file>ico/Icons8-Windows-8-Programming-Save-As.ico</file>
+        <file>ico/Microsoft-Fluentui-Emoji-Mono-Open-File-Folder.ico</file>
+        <file>ico/Pictogrammers-Material-Folder-Folder.ico</file>
+        <file>ico/Pictogrammers-Material-Folder-Folder-open.ico</file>
+        <file>ico/Pictogrammers-Material-Folder-Folder-open-outline.ico</file>
+        <file>ico/Pictogrammers-Material-Folder-Folder-outline.ico</file>
+        <file>ico/Steve-Zondicons-Close-Solid.ico</file>
+        <file>ico/Icons8-Windows-8-Programming-Save_u.ico</file>
+        <file>ico/Custom-Icon-Design-Mono-General-1-Close.ico</file>
+        <file>ico/Dtafalonso-Yosemite-Flat-Notes.ico</file>
+        <file>ico/Bootstrap-Bootstrap-Bootstrap-exclamation-circle.ico</file>
+        <file>ico/Bootstrap-Bootstrap-Bootstrap-exclamation-circle-fill.ico</file>
+        <file>ico/Custom-Icon-Design-Mono-General-about.ico</file>
+        <file>ico/Fa-Team-Fontawesome-FontAwesome-Ban.ico</file>
+        <file>ico/Ionic-Ionicons-Ban-sharp.ico</file>
+        <file>ico/Ionic-Ionicons-Ban-outline.ico</file>
+        <file>ico/Steve-Zondicons-Close-Outline.ico</file>
+    </qresource>
+</RCC>
